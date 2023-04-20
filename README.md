@@ -30,4 +30,4 @@ docker-compose exec -it fclx-desafio-2_app_1 bash
 npm run dev
 ```
 
-Em seguida, use o arquivo `api.http` para enviar as requisições.
+Em seguida, use o arquivo `api.http` para enviar as requisições juntamente com a extensão `REST Client` do VSCode.
