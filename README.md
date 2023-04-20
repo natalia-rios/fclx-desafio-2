@@ -6,7 +6,7 @@ Siga os seguintes passos:
 
 ```
 npm install
-docker-compose up
+docker-compose up -d
 docker exec -it fclx-desafio-2_app_1 bash
 ```
 
